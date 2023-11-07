@@ -32,5 +32,4 @@ featured in the main excel workbook. Pressing this button will erase all values 
 
 ----IMPORTANT----
 
-4. Lastly, it is not necessary to open the "View Code" window in VBA when using this macro. It has both a Calculate button and a Reset button. All you need to do is
-press the calculate button to calculate everything, and then press the reset button to remove all of the calculations and formatting that was just completed. 
+4. Lastly, if you have access to my main excel workbook, it will not be necessary to open the "View Code" window in VBA when using this macro. The main excel workbook has both a Calculate button and a Reset button. All you need to do is press the calculate button to calculate everything, and then press the reset button to remove all of the calculations and formatting that was just completed. 
