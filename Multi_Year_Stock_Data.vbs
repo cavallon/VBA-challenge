@@ -65,6 +65,8 @@ ws.Range("L" & Summary_Table_Row).Value = Total_Volume
 
 ws.Range("J" & Summary_Table_Row).Value = year_end_close - year_open
 
+ws.Range("J" & Summary_Table_Row).NumberFormat = "0.00"
+
 ws.Range("K" & Summary_Table_Row).Value = ((year_end_close - year_open) / year_open)
 
 ws.Range("K" & Summary_Table_Row).NumberFormat = "0.00%"
